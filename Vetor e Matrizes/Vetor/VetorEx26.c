@@ -4,8 +4,8 @@
 
 int main(){
 
-
-
+float DP;
+int i, v[10], m;
 
 
 
